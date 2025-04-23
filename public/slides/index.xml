@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides on Freestyle Cognition Slides</title>
+    <link>//localhost:1313/slides/</link>
+    <description>Recent content in Slides on Freestyle Cognition Slides</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Apr 2025 13:29:53 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/slides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Session 01</title>
+      <link>//localhost:1313/slides/session-01/</link>
+      <pubDate>Wed, 23 Apr 2025 13:29:53 +0100</pubDate>
+      <guid>//localhost:1313/slides/session-01/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;title: &amp;ldquo;Session 01: Amplified Creation&amp;rdquo;&#xA;outputs:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;reveal&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;amplified-creation&#34;&gt;Amplified Creation&lt;/h1&gt;&#xA;&lt;p&gt;This is the start of something big.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;step-1-set-your-intention&#34;&gt;Step 1: Set Your Intention&lt;/h2&gt;&#xA;&lt;p&gt;Focus before you flow.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

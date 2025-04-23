@@ -1,3 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = 'aibussin.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Freestyle Cognition Slides'
+
+theme = 'mainroad'
+paginate = '200' # Number of posts per page
+googleAnalytics = 'G-FMRH0FNWZF'
+
+
+[params]
+reveal_hugo_theme = "black"
